@@ -1,0 +1,22 @@
+# 一些 https://github.com/ACL4SSR/ACL4SSR 没有覆盖到的域名
+DOMAIN-SUFFIX,lapce.dev
+DOMAIN-SUFFIX,warp.dev
+DOMAIN-SUFFIX,chatai.com
+DOMAIN-SUFFIX,trae.ai
+DOMAIN-SUFFIX,fish.audio
+DOMAIN-SUFFIX,hentaiclub.net
+DOMAIN-SUFFIX,deepseekartifacts.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,dspy.ai
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,rust-lang.org
+DOMAIN-SUFFIX,paperless-ngx.com
+DOMAIN-SUFFIX,bitchesgirls.com
+DOMAIN-SUFFIX,gitbutler.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+
+# x.ai
+DOMAIN,console.x.ai
+DOMAIN,accounts.x.ai
+DOMAIN,api.x.ai
