@@ -6,12 +6,11 @@ DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,fish.audio
 DOMAIN-SUFFIX,hentaiclub.net
 DOMAIN-SUFFIX,deepseekartifacts.com
-DOMAIN-SUFFIX,zijieapi.com
+#DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,dspy.ai
 DOMAIN-SUFFIX,cohere.com
 DOMAIN-SUFFIX,rust-lang.org
 DOMAIN-SUFFIX,paperless-ngx.com
-DOMAIN-SUFFIX,bitchesgirls.com
 DOMAIN-SUFFIX,gitbutler.com
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor.sh
@@ -20,3 +19,8 @@ DOMAIN-SUFFIX,groq.com
 # x.ai
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
+
+# NSFW
+DOMAIN-SUFFIX,bitchesgirls.com
+DOMAIN-SUFFIX,18comic.vip
+DOMAIN-SUFFIX,18comic.org
