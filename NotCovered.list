@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,codeium.com
 
 # stripe
 DOMAIN-SUFFIX,stripecdn.com
