@@ -19,6 +19,9 @@ DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,codeium.com
 DOMAIN-SUFFIX,windsurf.com
 
+# videos
+DOMAIN-SUFFIX,xiaoxintv.cc
+
 # stripe
 DOMAIN-SUFFIX,stripecdn.com
 
