@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,stripecdn.com
 # x.ai
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,cerebras.ai
 
 # NSFW
 DOMAIN-SUFFIX,bitchesgirls.com
