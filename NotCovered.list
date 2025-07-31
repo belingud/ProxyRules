@@ -40,3 +40,6 @@ DOMAIN-SUFFIX,18comic.org
 
 # Arc
 DOMAIN-SUFFIX,diabrowser.engineering
+
+# github
+DOMAIN-SUFFIX,gitguardian.com
