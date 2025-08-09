@@ -41,5 +41,8 @@ DOMAIN-SUFFIX,18comic.org
 # Arc
 DOMAIN-SUFFIX,diabrowser.engineering
 
+# deeplx
+DOMAIN-SUFFIX,deeplx.org
+
 # github
 DOMAIN-SUFFIX,gitguardian.com
