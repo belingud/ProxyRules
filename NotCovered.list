@@ -46,3 +46,6 @@ DOMAIN-SUFFIX,deeplx.org
 
 # github
 DOMAIN-SUFFIX,gitguardian.com
+
+# wandb.ai
+DOMAIN-SUFFIX,wandb.ai
