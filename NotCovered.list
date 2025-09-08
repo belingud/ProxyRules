@@ -53,3 +53,6 @@ DOMAIN-SUFFIX,wandb.ai
 
 # santafe university
 DOMAIN-SUFFIX,sfcollege.edu
+
+# genspark
+DOMAIN-SUFFIX,genspark.ai
