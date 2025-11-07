@@ -62,3 +62,6 @@ DOMAIN-SUFFIX,opensubtitles.com
 
 # deno
 DOMAIN-SUFFIX,deno.land
+
+# linux.do
+DOMAIN-SUFFIX,linux.do
