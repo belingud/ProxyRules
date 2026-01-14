@@ -67,3 +67,6 @@ DOMAIN-SUFFIX,deno.land
 DOMAIN-SUFFIX,linux.do
 # anyrouter.top
 DOMAIN-SUFFIX,anyrouter.top
+
+# Antigravity
+DOMAIN-SUFFIX,run.app
