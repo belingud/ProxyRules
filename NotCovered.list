@@ -71,3 +71,6 @@ DOMAIN-SUFFIX,anyrouter.top
 # Antigravity
 DOMAIN-SUFFIX,run.app
 DOMAIN-SUFFIX,pkg.dev
+
+# factory.ai droid
+DOMAIN-SUFFIX,factory.ai
