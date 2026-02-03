@@ -74,3 +74,5 @@ DOMAIN-SUFFIX,anyrouter.top
 DOMAIN-SUFFIX,run.app
 DOMAIN-SUFFIX,pkg.dev
 
+# blackbox.ai
+DOMAIN-SUFFIX,blackbox.ai
