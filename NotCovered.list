@@ -85,3 +85,6 @@ DOMAIN-SUFFIX,northflank.com
 
 # ALDente
 DOMAIN-SUFFIX,apphousekitchen.com
+
+# vercel
+DOMAIN-SUFFIX,vercel.com
